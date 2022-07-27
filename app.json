@@ -1,8 +1,8 @@
 {
     "name": "tooht567-get",
-    "description": "For 4PDA.",
+    "description": "For4PDA",
     "env": {
         "PASSWORD": {
-            "description": "PASSWORD",
-            "value": "password"
+            "description": "PA55WORD",
+            "value": "pa55word"
         }
